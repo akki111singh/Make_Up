@@ -21,7 +21,7 @@
 ## Installing
 
       * Clone this repo in your local machine usine 'git clone https://github.com/faixan-khan/Make_Up.git'
-      * Install all the requirements using 'pip3 install requirements.txt'
+      * Install all the requirements using 'pip3 install -r requirements.txt'
 
 ## Running the tests
       * Do 'python3 Makeup.py source refrence'
